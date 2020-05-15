@@ -1,4 +1,5 @@
 var date = "July 3rd";
-console .log(date)
+console .log(date);
+
 
 
